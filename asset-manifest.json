@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyBrain/static/css/main.b19e242b.css",
+    "main.js": "/MyBrain/static/js/main.65e017c9.js",
+    "static/js/35.b0b36748.chunk.js": "/MyBrain/static/js/35.b0b36748.chunk.js",
+    "static/js/681.db629c4c.chunk.js": "/MyBrain/static/js/681.db629c4c.chunk.js",
+    "static/js/903.f81dc5b5.chunk.js": "/MyBrain/static/js/903.f81dc5b5.chunk.js",
+    "static/js/755.db6c03a0.chunk.js": "/MyBrain/static/js/755.db6c03a0.chunk.js",
+    "static/js/541.3bcb3acd.chunk.js": "/MyBrain/static/js/541.3bcb3acd.chunk.js",
+    "static/js/393.0273a046.chunk.js": "/MyBrain/static/js/393.0273a046.chunk.js",
+    "index.html": "/MyBrain/index.html",
+    "main.b19e242b.css.map": "/MyBrain/static/css/main.b19e242b.css.map",
+    "main.65e017c9.js.map": "/MyBrain/static/js/main.65e017c9.js.map",
+    "35.b0b36748.chunk.js.map": "/MyBrain/static/js/35.b0b36748.chunk.js.map",
+    "681.db629c4c.chunk.js.map": "/MyBrain/static/js/681.db629c4c.chunk.js.map",
+    "903.f81dc5b5.chunk.js.map": "/MyBrain/static/js/903.f81dc5b5.chunk.js.map",
+    "755.db6c03a0.chunk.js.map": "/MyBrain/static/js/755.db6c03a0.chunk.js.map",
+    "541.3bcb3acd.chunk.js.map": "/MyBrain/static/js/541.3bcb3acd.chunk.js.map",
+    "393.0273a046.chunk.js.map": "/MyBrain/static/js/393.0273a046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19e242b.css",
+    "static/js/main.65e017c9.js"
+  ]
+}
